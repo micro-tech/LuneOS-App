@@ -4,15 +4,18 @@
   "paths": [],
   "libraries": [
     "enyo",
-	"layout"
+	  "layout",
+    "onyx"
   ],
   "sources": {
     "enyo": "https://github.com/enyojs/enyo.git",
-    "layout": "https://github.com/enyojs/layout.git"
+    "layout": "https://github.com/enyojs/layout.git",
+    "onyx": "https://github.com/enyojs/onyx"
   },
   "targets": {
     "enyo": "master",
-    "layout": "master"
+    "layout": "master",
+    "onyx": "master"
   },
   "production": false,
   "devMode": true,
