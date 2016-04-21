@@ -1,3 +1,5 @@
 .enyocache
 dist/
 lib/
+
+deploy/
