@@ -1,0 +1,12 @@
+{
+	"title": "App Name",
+	"id": "org.webosports.app.Appname",
+	"version": "0.0.1",
+	"vendor": "WebOS Ports",
+	"vendor_url": "URL to app here ",
+	"type": "web",
+	"main": "index.html",
+	"icon": "icon.png",
+	"uiRevision": "2"
+}
+
